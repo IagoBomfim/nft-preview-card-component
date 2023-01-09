@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution code - GitHub](https://github.com/IagoBomfim/nft-preview-card-component.git)
+- Live Site URL: [Live site](https://dashing-shortbread-101596.netlify.app/)
 
 ## My process
 
@@ -42,8 +42,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@IagoBomfim](https://www.frontendmentor.io/profile/IagoBomfim)
+- GitHub - [@IagoBomfim](https://github.com/IagoBomfim)
 
 ## Acknowledgments

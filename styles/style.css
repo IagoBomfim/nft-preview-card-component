@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+
+:root {
+  --primary-Soft-blue: hsl(215, 51%, 70%);
+  --primary-Cyan: hsl(178, 100%, 50%);
+
+  --neutral-Very-dark-blue-main: hsl(217, 54%, 11%);
+  --neutral-Very-dark-blue-card: hsl(216, 50%, 16%);
+  --neutral-Very-dark-blue-line: hsl(215, 32%, 27%);
+  --neutral-White: hsl(0, 0%, 100%);
+
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Outfit', sans-serif;
+  font-weight: 300;
+}
+
+.container {
+  min-width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 25px 20px;
+  background-color: var(--neutral-Very-dark-blue-main);
+}
+
+.content {
+  max-width: 350px;;
+  border-radius: 15px;
+  padding: 20px 20px;
+  background-color: var(--neutral-Very-dark-blue-card);
+  color: var(--primary-Soft-blue);
+}
+
+.content>img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.content > h1 {
+  color: var(--neutral-White);
+  font-size: 18px;
+  margin: 15px 0;
+  font-weight: 600;
+}
+
+.content > p {
+  font-size: 15px;
+  color: var(--primary-Soft-blue);
+  margin-bottom: 15px;
+  font-weight: 400;
+}
+
+.ethereum {
+  display: flex;
+  padding-bottom: 15px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.line {
+  border-bottom: 1px solid var(--neutral-Very-dark-blue-line);
+}
+
+.content > div > div {
+  display: flex;
+  align-items: center;
+}
+
+.content > div > div > p {
+  margin-left: 5px;
+  font-size: 13px;
+}
+
+.color-text {
+  color: var(--primary-Cyan);
+  font-weight: 600;
+}
+
+.user-info {
+  padding: 15px 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.user-info > img {
+  width: 40px;
+}
+
+.user-info > span {
+  font-size: 13px;
+  margin-left: 15px;
+}
+
+.negrito {
+  color: var(--neutral-White);
+}

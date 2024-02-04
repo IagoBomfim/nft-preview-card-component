@@ -42,6 +42,11 @@
   border-radius: 10px;
 }
 
+.icon-ethereum {
+  width: 100%;
+  border-radius: 10px;
+}
+
 .content > h1 {
   color: var(--neutral-White);
   font-size: 18px;
